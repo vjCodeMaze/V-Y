@@ -6,3 +6,4 @@ Welcome to the auto-updating doc test.
 - Features: Basic page
 // hello world function .
 This doc describes the project's functions.
+gfdfgd
